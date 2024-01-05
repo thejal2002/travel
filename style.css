@@ -1,0 +1,165 @@
+.bar{
+    background-image: url(./images/pexels-nandhu-kumar-450441.jpg);
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.para{
+    font-family: 'Roboto Slab',monospace;
+    text-shadow: 0 0 5px rgb(14, 12, 12);
+    color: white;
+}
+.Destination h2{
+ text-align: center;
+ font-family: Anton;
+ text-shadow: 0 0 5px rgb(117, 102, 102);
+ color: rgb(16, 12, 12);
+}
+.babu{
+    height: 80vh;
+    object-fit: cover;
+}
+.name{
+    text-align: center;
+    font-family: Anton;
+    text-shadow: 0 0 5px rgb(117, 102, 102);
+    color: rgb(16, 12, 12);
+}
+.Packages h2{
+    text-align: center;
+    font-family: Anton;
+    text-shadow: 0 0 5px rgb(117, 102, 102);
+    color: rgb(16, 12, 12);
+}
+.services h2{
+    text-align: center;
+    font-family: Anton;
+    text-shadow: 0 0 5px rgb(117, 102, 102);
+    color: rgb(16, 12, 12);
+}
+/* *{
+    border: 1px solid red;
+} */
+#testimonials {
+    padding: 5rem 0;
+    background: rgba(243, 243, 243);
+  }
+  
+  .testimonial-title {
+    text-align: center;
+    font-size: 2.8rem;
+    font-weight: 400;
+    color: #555;
+  }
+  
+  .testimonial-container {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+    padding: 1rem;
+  }
+  
+  .testimonial-box .checked {
+    color: #ff9529;
+  }
+  
+  .testimonial-box .testimonial-text {
+    margin: 1rem 0;
+    color: #444;
+  }
+  
+  .testimonial-box {
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  .customer-photo img {
+    display: block;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    margin: auto;
+  }
+  #experiences h2{
+    text-align: center;
+    font-family: Anton;
+    text-shadow: 0 0 5px rgb(117, 102, 102);
+    color: rgb(16, 12, 12);
+  }
+  .reviewer-img{
+    width: 8rem;
+  }
+  footer{
+    background-color: rgba(41, 38, 40, 0.607);
+    font-weight: 500;
+    border: 0.1px solid rgb(45, 46, 48);
+}
+  
+  footer ul{
+    list-style: none;
+    margin-top: 0.5rem;
+  }
+  
+  footer ul a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 600;
+  }
+  
+  .footer-h5, footer span{
+    color: rgb(213, 255, 208);
+    font-weight: bold;
+  }
+  
+  footer ul li i{
+    color: #fff;
+  }
+  /* #TravelMate {
+    position: absolute;
+    top: 0;
+    height: 100vh;
+    width: 100%;
+  } */
+  .Destination{
+    margin-top: 8%;
+  }
+  .inner{
+    overflow: hidden;
+  }
+  .inner img{
+    transition: all 1.5s ease;
+  }
+  .inner:hover img{
+    transform: scale(1.5);
+  }
+  .Packages{
+    margin-top: 2%;
+  }
+  .ajji{
+    overflow: hidden;
+  }
+  .ajji img{
+    transition: all 1.5s ease;
+  }
+  .ajji:hover img{
+    transform: scale(1.5);
+  }
+  .services{
+    margin-top: 2%;
+  }
+  .servicescard:hover{
+    transform: scale(1.15);
+    
+  }
+  .servicescard{
+    transition: all 0.3s;
+    text-align: center;
+  }
+  .d-flex{
+    align-items: center;
+  }
+  
